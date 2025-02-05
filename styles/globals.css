@@ -29,3 +29,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.navbar {
+  height: 80px; /* შეცვალე სიმაღლე */
+  padding: 10px 20px;
+}
+

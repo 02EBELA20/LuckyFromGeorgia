@@ -1,13 +1,9 @@
-import Navbar from "../components/Navbar";
-
-export default function Winners() {
+export default function WinnerCard({ name, amount, date }) {
   return (
-    <div>
-      <Navbar />
-      <div className="container mx-auto py-10">
-        <h1 className="text-3xl font-bold text-center">🏆 გამარჯვებულები</h1>
-        <p className="text-center mt-2">აქ გამოჩნდებიან ყველა გამარჯვებული სქრინებით!</p>
-      </div>
+    <div className="w-full md:w-80 lg:w-96 p-6 bg-white shadow-lg rounded-lg">
+      <h3 className="text-2xl font-bold mb-2 text-gray-800">{name}</h3>
+      <p className="text-gray-600">გამარჯვების თანხა: ₾{amount}</p>
+      <p className="text-gray-500 text-sm">{date}</p>
     </div>
   );
 }
