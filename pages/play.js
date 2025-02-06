@@ -6,7 +6,7 @@ export default function Play() {
 
   return (
     <div className="min-h-screen bg-gray-900 text-white flex flex-col justify-center items-center p-6">
-      <h1 className="text-4xl font-bold mb-8">🐷 დობის ისტორია</h1>
+      <h1 className="text-4xl font-bold mb-12">🐷დობის ისტორია🐷</h1>
 
       <p className="text-lg max-w-2xl text-center mb-10">
         დობი ოდესღაც უბრალო გოჭი იყო, რომელიც ოცნებობდა გამხდარიყო ყველაზე იღბლიანი გოჭი საქართველოში!  
