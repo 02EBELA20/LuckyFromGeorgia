@@ -359,89 +359,81 @@ __turbopack_esm__({
     "default": (()=>Footer)
 });
 var __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__ = __turbopack_import__("[externals]/react/jsx-dev-runtime [external] (react/jsx-dev-runtime, cjs)");
+var __TURBOPACK__imported__module__$5b$externals$5d2f$styled$2d$jsx$2f$style$2e$js__$5b$external$5d$__$28$styled$2d$jsx$2f$style$2e$js$2c$__cjs$29$__ = __turbopack_import__("[externals]/styled-jsx/style.js [external] (styled-jsx/style.js, cjs)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$ssr$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/react-icons/fa/index.mjs [ssr] (ecmascript)");
+;
 ;
 ;
 function Footer() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("footer", {
-        className: "bg-gray-900 text-white text-center py-6",
+        className: "jsx-ffbee83d8ce46598" + " " + "bg-gray-900 text-white text-center py-6",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
-                className: "text-lg",
-                children: [
-                    "© 2025 ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
-                        className: "font-bold text-yellow-400",
-                        children: "LuckyGeorgia"
-                    }, void 0, false, {
-                        fileName: "[project]/components/Footer.js",
-                        lineNumber: 7,
-                        columnNumber: 16
-                    }, this),
-                    " - ყველა უფლება დაცულია"
-                ]
-            }, void 0, true, {
+                className: "jsx-ffbee83d8ce46598",
+                children: "© 2025 LuckyGeorgia - ყველა უფლება დაცულია"
+            }, void 0, false, {
                 fileName: "[project]/components/Footer.js",
                 lineNumber: 6,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
-                className: "flex justify-center items-center gap-8 mt-4 text-3xl",
+                className: "jsx-ffbee83d8ce46598" + " " + "flex justify-center space-x-6 mt-4 text-3xl",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                         href: "https://www.facebook.com/profile.php?id=61573014742100",
                         target: "_blank",
                         rel: "noopener noreferrer",
-                        className: "transition transform hover:scale-125 hover:text-yellow-400",
-                        "aria-label": "Facebook",
+                        className: "jsx-ffbee83d8ce46598" + " " + "social-icon",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$ssr$5d$__$28$ecmascript$29$__["FaFacebook"], {}, void 0, false, {
                             fileName: "[project]/components/Footer.js",
-                            lineNumber: 19,
+                            lineNumber: 11,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/Footer.js",
-                        lineNumber: 12,
+                        lineNumber: 10,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                         href: "https://www.instagram.com/luckyfromgeorgia/",
                         target: "_blank",
                         rel: "noopener noreferrer",
-                        className: "transition transform hover:scale-125 hover:text-yellow-400",
-                        "aria-label": "Instagram",
+                        className: "jsx-ffbee83d8ce46598" + " " + "social-icon",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$ssr$5d$__$28$ecmascript$29$__["FaInstagram"], {}, void 0, false, {
                             fileName: "[project]/components/Footer.js",
-                            lineNumber: 28,
+                            lineNumber: 14,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/Footer.js",
-                        lineNumber: 21,
+                        lineNumber: 13,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                         href: "https://www.tiktok.com/@lucky_from_georgia",
                         target: "_blank",
                         rel: "noopener noreferrer",
-                        className: "transition transform hover:scale-125 hover:text-yellow-400",
-                        "aria-label": "TikTok",
+                        className: "jsx-ffbee83d8ce46598" + " " + "social-icon",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$ssr$5d$__$28$ecmascript$29$__["FaTiktok"], {}, void 0, false, {
                             fileName: "[project]/components/Footer.js",
-                            lineNumber: 37,
+                            lineNumber: 17,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/Footer.js",
-                        lineNumber: 30,
+                        lineNumber: 16,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/Footer.js",
-                lineNumber: 11,
+                lineNumber: 9,
                 columnNumber: 7
-            }, this)
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$externals$5d2f$styled$2d$jsx$2f$style$2e$js__$5b$external$5d$__$28$styled$2d$jsx$2f$style$2e$js$2c$__cjs$29$__["default"], {
+                id: "ffbee83d8ce46598",
+                children: ".social-icon.jsx-ffbee83d8ce46598{transition:transform .2s ease-in-out,color .2s}.social-icon.jsx-ffbee83d8ce46598:hover{color:#ffea00;transform:scale(1.3)}"
+            }, void 0, false, void 0, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/Footer.js",
